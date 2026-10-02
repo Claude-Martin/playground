@@ -25,8 +25,8 @@ git merge lesson/name
 
 ## Remote
 ```
-git remote add origin <url>
-git push -u origin main     # first push
+git remote add origin https://github.com/Claude-Martin/playground.git
+git push -u origin main     # first push, sets the upstream
 git push                    # later pushes
 ```
 
